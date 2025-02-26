@@ -1,1 +1,1 @@
-#open as mentined above "thyroid.ipynb" 
+open as mentined above "thyroid.ipynb" 
