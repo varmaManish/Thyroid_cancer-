@@ -1,1 +1,1 @@
-open as mentined above "thyroid.ipynb" 
+open the file as mentined above "thyroid.ipynb" 
